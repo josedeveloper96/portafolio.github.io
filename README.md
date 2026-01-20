@@ -34,8 +34,8 @@ He trabajado con diversas tecnologías para crear soluciones robustas:
 ---
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=josedeveloper96&show_icons=true&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=josedeveloper96&layout=compact&theme=tokyonight)
 
 ---
 
