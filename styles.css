@@ -1,0 +1,15 @@
+/* Esto asegura que el modo oscuro aplique a las secciones personalizadas */
+[data-bs-theme="dark"] .hero {
+    background-color: #212529 !important;
+    color: white;
+}
+
+[data-bs-theme="dark"] .bg-light {
+    background-color: #2b3035 !important;
+    color: white;
+}
+
+/* Transición suave para que no parpadee */
+body {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
